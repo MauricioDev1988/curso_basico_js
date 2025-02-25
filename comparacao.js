@@ -11,5 +11,4 @@ else alert("Nota 1 diferente de nota 2")
 
 
 
-
 document.getElementById("paragrafo").innerText = resultado
